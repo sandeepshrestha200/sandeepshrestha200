@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, ReactJS**
 
-- 👨‍💻 All of my projects are available at [www.sandeepshrestha200.com.np](www.sandeepshrestha200.com.np)
+- 👨‍💻 All of my projects are available at [www.sandeepshrestha200.com.np](https://www.sandeepshrestha200.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
