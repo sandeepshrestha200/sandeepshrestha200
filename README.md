@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshrestha200" alt="sandeepshrestha200" /></a> </p>
 
+
 - 🌱 I’m currently learning **PHP, Laravel, ReactJS**
 
 - 👨‍💻 All of my projects are available at [www.sandeepshrestha200.com.np](https://www.sandeepshrestha200.com.np)
+
+- 📫 To reach me : **sandeepshrestha288@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
