@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepshrestha200" alt="sandeepshrestha200" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently working on **MERN Projects(currently, Blog app..)**
 
 - 🌱 I’m currently learning **PHP, Laravel, ReactJS and some other stuffs**
 
