@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MERN Projects(currently, Blog app..)**
 
-- 🌱 I’m currently learning **PHP, Laravel, ReactJS and some other stuffs**
+- 🌱 I’m currently learning **PHP, ReactJS and some other stuffs**
 
-- 👨‍💻 All of my projects are available at [www.sandeepshrestha200.com.np](https://www.sandeepshrestha200.com.np)
+- 👨‍💻 All of my projects are available at [www.sandeepshrestha200.com.np](https://www.sandeepshrestha200.com.np) , [UnsplashImages](https://unsplashapi.sandeepshrestha200.com.np/)
 
 - 📫 To reach me : **sandeepshrestha288@gmail.com**
 
